@@ -3,22 +3,25 @@ using Xunit;
 
 namespace GradeBook.Tests
 {
+    public delegate string WriteLogDelegate(string logMessage);
+
     public class TypeTests
     {
+        [Fact]
+        public void WriteLogDelegateCanPointToMethod()
+        {
+            WriteLogDelegate log;
 
-        // [Fact]
-        // public void GradeInBounds()
-        // {
-        //     //arrange
-        //     var book = new Book("");
-        //     book.AddGrade(105);
-        //     //act
-            
+            log = new WriteLogDelegate(ReturnMessage);
 
-        //     //assert
-        //     Assert.Equal(, 105);
-                      
-        // }
+            var result = log("Hello!");
+            Assert.Equal("Hello!", result);
+        }
+
+        string ReturnMessage(string message)
+        {
+            return message;
+        }
 
         [Fact]
         public void ValueTypesAlsoPassByValue()
