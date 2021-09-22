@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTxfAzI4/w3V7Ggx+MsPiOSVY8wba6Z6UBIxQL0uwDplVSaNhaoJUemORKt5HIUBom9Gf9Lfd9KjYSFVmMt1WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cenright\\Documents\\Coding\\C#\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cenright\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
