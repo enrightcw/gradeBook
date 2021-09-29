@@ -115,5 +115,7 @@ namespace GradeBook
         }
 
         public const string CATEGORY = "Science";
+
+        private string name;
     }
 }
