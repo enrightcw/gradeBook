@@ -72,7 +72,7 @@ namespace GradeBook.Tests
         }
 
         [Fact]
-        public void CShapIsPassByValue()
+        public void CSharpIsPassByValue()
         {
             //arrange
             var book1 = GetBook("Book 1");
