@@ -1,0 +1,15 @@
+D:\git\Projects\gradebook\src\bin\Debug\net7.0\src.exe
+D:\git\Projects\gradebook\src\bin\Debug\net7.0\src.deps.json
+D:\git\Projects\gradebook\src\bin\Debug\net7.0\src.runtimeconfig.json
+D:\git\Projects\gradebook\src\bin\Debug\net7.0\src.dll
+D:\git\Projects\gradebook\src\bin\Debug\net7.0\src.pdb
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.csproj.AssemblyReference.cache
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.AssemblyInfoInputs.cache
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.AssemblyInfo.cs
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.csproj.CoreCompileInputs.cache
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.dll
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\refint\src.dll
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.pdb
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\src.genruntimeconfig.cache
+D:\git\Projects\gradebook\src\obj\Debug\net7.0\ref\src.dll
